@@ -55,10 +55,8 @@ while True:
 ```
 
 # OUTPUT :
-# CLIENT:
-![image](https://github.com/NAGINENIROHITH/EX-6/assets/118344049/33390263-63e0-426e-9ae2-93cbded8e7a5)
-# SERVER:
-![image](https://github.com/NAGINENIROHITH/EX-6/assets/118344049/07d8c614-a0ae-4d94-a603-343ee5cdc926)
+![image](https://github.com/Bhargava-123/EX-6/assets/85554376/4b999008-85b4-41c3-8b7e-a6f95cd09163)
+
 
 # RESULT :
 Thus, the python program for simulating ping command was successfully executed.
